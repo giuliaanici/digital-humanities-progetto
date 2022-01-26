@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mp:metadata xmlns:mp="http://example.org/MyProject/" 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xmlns:dc="http://purl.org/dc/elements/1.1/" 
+	xmlns:dcterms="http://purl.org/dc/terms/"  
+	xsi:schemaLocation="http://example.org/MyProject/ http://example.org/MyProject/schema.xsd">
+
+	<dc:title>Agorà</dc:title>
+	<dc:creator xsi:type="mp:ULAN" mp:ref="http://viaf.org/viaf/311683091">TELLAS</dc:creator>
+
+	<dc:date type="creation">2021</dc:date>
+	<dc:date type="subject">1984-</dc:date>
+
+	<dc:subject xml:lang="it">Sreet art</dc:subject>
+
+	<dc:description>L'opera più importante del festival consiste nella copertura del tessuto della piazza principale del quartiere Lunetta, lungo i 950 metri quadrati della piazza. il disegno è composto da elementi naturali rielaborati in enormi campiture cromatiche, che creano nuove connessioni tra uomo e natura, concetto alla base della poetica dell'artista.
+	</dc:description>
+
+	<dc:publisher>Without Frontiers,Digital Humanities project,Università di Bologna </dc:publisher>
+
+	<dc:contributor>Giulia Anici</dc:contributor>
+
+	<dc:type>Opera street art</dc:type>
+
+	<dc:format>950 m²</dc:format>
+	<dc:format>vernice</dc:format>
+	<dc:element name="rightsHolder" Caravansetup="dc:any"/>
+
+	<dc:identifier xsi:type="dcterms:URI">https://giuliaanici.github.io/Giulia-Withoutfrontiers/</dc:identifier>
+
+	<dc:language>it</dc:language>
+
+
+
+
+
+
+</mp:metadata>

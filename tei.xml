@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Without Frontiers</title>
+				<title> arte urbana e arte pubblica, esperienze e prospettive</title>
+				<author>Simona Gavioli, Giulia Giliberti</author>
+				
+				<respStmt>
+					<resp>Codifica TEI</resp>
+					<resp>digitalizzazione</resp>
+					<persName xml:id="GA">Giulia Anici</persName>
+				</respStmt>
+			</titleStmt>
+
+			    <publicationStmt>
+				     <publisher>IlRio</publisher>
+				     <address>
+                     <addrLine>Via XX Settembre 17, Mantova</addrLine>
+                     </address>
+                     <date>2017</date>
+                     <availability status="restricted">
+                       <p>Available with prior consent of Il Rio</p>
+                      </availability>
+			    </publicationStmt>
+			
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<settlement><placeName>Mantova</placeName></settlement>
+						<repository>Mantova città d'arte e di Cultura</repository>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		<encodingDesc>
+			<p>Marcatura riguradante nomi propri, luoghi, date, citazioni, bibliografia.</p>
+		</encodingDesc>
+		<profileDesc>
+		 <langUsage>
+		  <language ident="it">Italian</language>
+		 </langUsage>
+		</profileDesc>
+		</fileDesc>
+                <biblStruct>
+				 <monogr>
+				  <author>Simona Gavioli</author>
+				  <editor>Il Rio</editor>
+				  <title>Without Frontiers</title>
+				  <edition>Prima edizione</edition>
+				  <imprint>
+				   <publisher>Il Rio editore</publisher>
+				   <pubPlace>Mantova</pubPlace>
+				   <date>2017</date>
+				  </imprint>
+				 </monogr>
+				</biblStruct>
+	
+	</teiHeader>
+
+
+	<text>
+		<body>
+			<div resp="#GA" type="capitolo">
+	<TitlePage>
+            <head>
+            <TitlePart type="main">
+            <p rend="align:center">Un artista. Una casa.</p>
+            </TitlePart>
+            </head>
+            <TitlePart type="sub">
+            <p>Un "nuovo affresco".</p>
+            <author> Simona Gavioli </author>
+            </TitlePart>
+            </TitlePage>
+            <p> <mentioned rend="italic level M" who="Paul Eluard"> Quand les cimes de notre ciel se rejoindront. Ma maison aura un toit. </mentioned> </p>
+            <p> Come il Rinascimento è stato il periodo che ha visto l'affermazione dell'artista dopo secoli di artigianato e manovalanza, facendogli ricprire un ruolo di primaria importanza nelle corti più influenti d'<name resp="#GA" type="place">Europa</name>, così il <date value="1600">Seicento </date> e il <date value="1700"> Settecento </date> hanno rafforzato il suo riconoscimento e consolidato alla società le abilità intellettuali, progettuali e manuali dello stesso. </p>
+
+            <p> E ancora <name type="author"> Baudelair </name>, nel <title><bibl> Pittore della vita moderna </bibl></title>, considera la modernità attrazione per la contaminazione e consapevolezza che l'arte deve abbandonare l'aureo isolamento e l'artista diventare uomo della folla- <foreign lang="eng">flaneur-</foreign> e assumere in sè più identità.</p>
+
+            <p> Nel 1991 <name resp="#GA" type="person">Wenders</name>, in un intervento a <name resp="#GA" type="place">Tokyo</name> sul futuro della città <note place="piedepagina"> <title> L'atto di vedere</title>, l'autore si rivolge a un pubblico di architetti riuniti in convegno a <placeName>Tokyo</placeName> <date> il 12 Ottobre 1991 </date> </note>, indirizza la sua attenzione su architetti e urbanisti sollecitandoli a non dimenticare che la città è il contenitore-laboratorio che i bambini hanno a disposizione e che plasmerà il loro mondo visivo e sentimentale.
+            <mentioned who="Wenders"> Voi non dovete solo costruire edifici, bensì creare spazi liberi per conservare il vuoto, affinchè la sovrabbondanza non ci accechi, e il vuoto giovi al nostro ristoro. </mentioned></p>
+
+		</div>	
+		</body>
+	</text>
+</TEI>
